@@ -1,3 +1,6 @@
 [submodule "mnt/extra-addons/oforgeEn"]
 	path = mnt/extra-addons/oforgeEn
 	url = git@github.com:gaesar1/oforgeEn.git
+[submodule "mnt/extra-addons/odooEn"]
+	path = mnt/extra-addons/odooEn
+	url = git@github.com:gaesar1/odooEn.git
